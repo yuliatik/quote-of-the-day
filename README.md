@@ -2,7 +2,7 @@
 
 This is a simple web app that shows a random motivational quote in German when the user clicks a button.
 
-Please open the app here: 
+Please open the app here: https://github.com/yuliatik/quote-of-the-day.git
 
 DEMO
 
