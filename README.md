@@ -4,17 +4,19 @@ This is a simple web app that shows a random motivational quote in German when t
 Please open the app here: 
 
 DEMO
-![Screenshot](screenshot.png)
 
+![Screenshot](quote.png)
 
 
 🚀 Features
+
 Displays a random quote each time the button is clicked
 Responsive design (mobile-friendly)
 Beautiful background and Google Fonts for a calm, inspirational vibe
 Built using HTML, CSS, and JavaScript
 
 🛠️ Technologies Used
+
 HTML5
 CSS3 (with responsive design using media queries)
 JavaScript
@@ -23,6 +25,7 @@ Google Fonts
 
 
 💡 How to Use
+
 Clone the repository or download the files
 Open index.html in your browser
 Click the button to get a new quote!
