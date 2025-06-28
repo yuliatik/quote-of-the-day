@@ -11,34 +11,34 @@ DEMO
 
 🚀 Features
 
-Displays a random quote each time the button is clicked
+ - Displays a random quote each time the button is clicked
 
-Responsive design (mobile-friendly)
+ - Responsive design (mobile-friendly)
 
-Beautiful background and Google Fonts for a calm, inspirational vibe
+ - Beautiful background and Google Fonts for a calm, inspirational vibe
 
-Built using HTML, CSS, and JavaScript
+ - Built using HTML, CSS, and JavaScript
 
 🛠️ Technologies Used
 
-HTML5
+ - HTML5
 
-CSS3 (with responsive design using media queries)
+ - CSS3 (with responsive design using media queries)
 
-JavaScript
+ - JavaScript
 
-API Integration
+ - API Integration
 
-Google Fonts
+ - Google Fonts
 
 
 💡 How to Use
 
-Clone the repository or download the files
+ - Clone the repository or download the files
 
-Open index.html in your browser
+ - Open index.html in your browser
 
-Click the button to get a new quote!
+ - Click the button to get a new quote!
 
 📌 License This project is open-source and available under the MIT License.
 
