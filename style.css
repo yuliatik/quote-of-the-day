@@ -33,6 +33,25 @@ justify-content: center;
     margin-top:500px; 
     display:none;
     width:70%;
+}
 
+@media (max-width: 500px) {
+    .btn {
+        font-size: 24px;
+        padding: 15px 20px;
+        border-radius: 30px;
+        max-width: 100%;
+    }
+
+    .par {
+        font-size: 20px;
+        padding: 15px;
+        border-radius: 30px;
+        width: 90%;
+    }
+
+    .container {
+        padding: 10px;
+    }
 }
 
