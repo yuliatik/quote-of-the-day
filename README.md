@@ -1,4 +1,5 @@
 📘 Quote of the Day App
+
 This is a simple web app that shows a random motivational quote in German when the user clicks a button.
 
 Please open the app here: 
